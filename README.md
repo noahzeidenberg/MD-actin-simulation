@@ -1,4 +1,3 @@
-# trophic-tuna
 Molecular Dynamics simulation of the H88Y substitution mutation in cardiac actin (ACTC1), using GROMACS on a HPC cluster via the SLURM workload manager.
 ***
 Nomenclature: "6DJN-1-H88Y" would mean the 6DJN pdb file with the H88Y mutation added, as a single subunit. "6DJO-8-WT" would mean the wildtype 6DJO pdb file as an 8-subunit-long filament. 
